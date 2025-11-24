@@ -1,0 +1,5 @@
+{
+  "name": "Plane Wave Reflection Demo",
+  "description": "A visualization of a uniform plane wave obliquely incident on a perfect conductor, demonstrating the synthesis of standing and traveling waves.",
+  "requestFramePermissions": []
+}
